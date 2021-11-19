@@ -1,6 +1,6 @@
 # Get paid for your Shopify orders via Stripe with Alipay, Bancontact, EPS, giropay, iDEAL, Przelewy24, Sofort, WeChat Pay
 
-[Demo ](http://shopifystripe.techtolia.com)--> http://shopifystripe.techtolia.com
+[Demo ](https://shopifystripe.techtolia.com)--> https://shopifystripe.techtolia.com
 
 With this integration, accept payments for your Shopify Store orders directly at your domain through Stripe with payment methods Alipay, Bancontact, EPS, giropay, iDEAL, Przelewy24, Sofort and WeChat Pay.
 
